@@ -1,0 +1,22 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cp-file": "^6.0.0",
+    "request": "^2.88.0",
+    "robots-txt-parser": "^1.0.1",
+    "url-parse": "^1.4.3"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
